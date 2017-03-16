@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git add once.
 Git add twice commit.
+My stupid boss still prefers SVN.
