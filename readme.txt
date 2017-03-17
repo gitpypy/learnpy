@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git add once.
 Git add twice commit.
 My stupid boss still prefers SVN.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
