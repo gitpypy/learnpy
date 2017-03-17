@@ -6,3 +6,4 @@ Git add once.
 Git add twice commit.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
+Switched to a new branch 'dev'.
