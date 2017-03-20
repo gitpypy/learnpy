@@ -13,3 +13,4 @@ The following tables contain all the basic vi commands.
 Fatal: cannot do a partial commit during a merge.
 I ran git pull that ended in a conflict.
 Git error on commit after merge.
+This branch is 7 commits ahead, 4 commits behind master.
