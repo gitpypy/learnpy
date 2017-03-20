@@ -10,3 +10,4 @@ Switched to a new branch 'dev'.
 Git stash is a temporary solution for interrupted half-finished work.
 #! -*- utf-8 -*-
 The following tables contain all the basic vi commands.
+Fatal: cannot do a partial commit during a merge.
