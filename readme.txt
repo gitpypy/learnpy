@@ -12,3 +12,4 @@ Git stash is a temporary solution for interrupted half-finished work.
 The following tables contain all the basic vi commands.
 Fatal: cannot do a partial commit during a merge.
 I ran git pull that ended in a conflict.
+Git error on commit after merge.
